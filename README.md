@@ -6,4 +6,4 @@ i7 8 núcleos
 
 240 SSD
 
-video = [These Companies Are Making Profit From Saving The Planet | Banking Nature | Spark](https://www.youtube.com/watch?v=y1EdZeRHgbM)
+workload youtube video = [These Companies Are Making Profit From Saving The Planet | Banking Nature | Spark](https://www.youtube.com/watch?v=y1EdZeRHgbM)
